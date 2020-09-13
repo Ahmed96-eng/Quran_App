@@ -15,6 +15,7 @@ class _SuraListState extends State<SuraList> {
   @override
   void initState() {
     fetchQuranList = fetchQuranModel();
+
     super.initState();
   }
 
